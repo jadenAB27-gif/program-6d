@@ -1,12 +1,10 @@
-# program-6-b-
+# program-6d
 C module 6
-EXP.No:6-b-Positive or negative using calloc().
+EXP.No:6d-Positive or negative using calloc().
 
-Date:19/10/2025
-
-Name: VASANTH S
-
-Ref no: 25017538
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM:
 To write a C program to find whether the  given number is positive or negative using calloc().
